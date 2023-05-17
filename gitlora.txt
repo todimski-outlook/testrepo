@@ -1,0 +1,5 @@
+6342 	Tailors, dressmakers, furriers and milliners 	B
+0213 	Computer and information systems managers 	0
+2147 	Computer engineers (except software engineers and designers) 	A
+2174 	Computer programmers and interactive media developers 	A
+2281 	Computer network technicians 	B
